@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SceneSwitchingSanMiguel
+#
+
+projectname: SceneSwitchingSanMiguel
+vendorid: com.davegay.mycompany
+mainmodule: com.davegay.mycompany.sceneswitchingsanmiguel
